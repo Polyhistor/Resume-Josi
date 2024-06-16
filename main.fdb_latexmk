@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1718412688 "/Users/pataei/Desktop/Projects/Josi-Resumee/main.tex" "main.pdf" "main" 1718412689 0
-  "/Users/pataei/Desktop/Projects/Josi-Resumee/main.tex" 1718412688 11747 f74e6a98b213b9c22dc55acb4c0dc9ac ""
+["pdflatex"] 1718524438 "/Users/pataei/Desktop/Projects/Josi-Resumee/main.tex" "main.pdf" "main" 1718524439 0
+  "/Users/pataei/Desktop/Projects/Josi-Resumee/main.tex" 1718524438 11749 f666dbb2dcfa08c49fe6d6b6516d3999 ""
   "/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1678549815 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1678549815 3083 a707712f77b073b3833e4b1334a30e99 ""
   "/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1678549815 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -226,10 +226,10 @@
   "/opt/homebrew/Cellar/texlive/20230313_2/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1678549815 7884066 8197b5e86c7bf6d7352283907f10d5c2 ""
   "Josi-profile.jpeg" 1718412022 149259 f81de00bb25ebcf5fb5ca3af8987a00c ""
   "altacv.cls" 1718411767 13471 8c5bef71a78cdd38222121e1432b6ec1 ""
-  "main.aux" 1718412689 554 04ae3964aa57b78538b565d0454a3de2 "pdflatex"
-  "main.out" 1718412689 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1718412688 11747 f74e6a98b213b9c22dc55acb4c0dc9ac ""
-  "pdfa.xmpi" 1718412688 5042 f818fa7c45210f4716027493779463dd "pdflatex"
+  "main.aux" 1718524439 554 04ae3964aa57b78538b565d0454a3de2 "pdflatex"
+  "main.out" 1718524439 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1718524438 11749 f666dbb2dcfa08c49fe6d6b6516d3999 ""
+  "pdfa.xmpi" 1718524438 5042 942d7e13f4b7b70b038992a9bd0fccfa "pdflatex"
   (generated)
   "main.aux"
   "main.log"
