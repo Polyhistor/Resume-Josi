@@ -3,8 +3,8 @@ entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/pouya/Desktop/Projects/Josi-CV/main.tex
-(/home/pouya/Desktop/Projects/Josi-CV/main.tex
+**/home/pouya/Desktop/Projects/Josi-CV/receptionist-cv.tex
+(/home/pouya/Desktop/Projects/Josi-CV/receptionist-cv.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (./altacv.cls
@@ -199,7 +199,7 @@ File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 ) (/usr/share/texmf-dist/tex/latex/pdfx/AdobeColorProfiles.tex) (/usr/share/texmf-dist/tex/latex/pdfx/8bit.def
 File: 8bit.def 2008/03/30 v1.1d Input encoding file
 )
-** pdfx: No file main.xmpdata . Metadata will be incomplete!
+** pdfx: No file receptionist-cv.xmpdata . Metadata will be incomplete!
 <<sRGB.icc>> (/usr/share/texmf-dist/tex/latex/pdfx/8bit.def
 File: 8bit.def 2008/03/30 v1.1d Input encoding file
 )
@@ -642,8 +642,8 @@ File: T1lato-TLF.fd 2019/06/24 Font definitions for T1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 (Font)              scaled to size 10.0pt on input line 134.
- (./main.aux)
-\openout1 = `main.aux'.
+ (./receptionist-cv.aux)
+\openout1 = `receptionist-cv.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 134.
 LaTeX Font Info:    ... okay on input line 134.
@@ -683,9 +683,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 134.
- (./main.out) (./main.out)
+ (./receptionist-cv.out) (./receptionist-cv.out)
 \@outlinefile=\write5
-\openout5 = `main.out'.
+\openout5 = `receptionist-cv.out'.
 
 
 *geometry* driver: auto-detecting
@@ -824,24 +824,24 @@ Overfull \hbox (13.1148pt too wide) in paragraph at lines 295--296
 []\T1/lato-TLF/m/n/10 Sales Im-pact: The com-bined ef-forts in lay-out re-design and il-lus-tra-tion sig-nif-i-cantly up-lifted the sales of teach-ing ma-te-ri-als, 
  []
 
-[2] (./main.aux)
+[2] (./receptionist-cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
+Package rerunfilecheck Info: File `receptionist-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  32728 strings out of 476076
- 638771 string characters out of 5793775
+ 639002 string characters out of 5793775
  1962187 words of memory out of 5000000
  54263 multiletter control sequences out of 15000+600000
  827786 words of font info for 67 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 125i,8n,121p,590b,2380s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,8n,121p,601b,2380s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pfb></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on main.pdf (2 pages, 315167 bytes).
+Output written on receptionist-cv.pdf (2 pages, 315167 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  3 named destinations out of 1000 (max. 500000)

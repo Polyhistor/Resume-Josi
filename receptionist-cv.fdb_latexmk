@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1726733624.19788 "/home/pouya/Desktop/Projects/Josi-CV/main.tex" "main.pdf" "main" 1726733624.91785 0
-  "/home/pouya/Desktop/Projects/Josi-CV/main.tex" 1726733623.16111 11750 ea88a177b44db226086c7bed4b40e1ca ""
+["pdflatex"] 1726733638.42679 "/home/pouya/Desktop/Projects/Josi-CV/receptionist-cv.tex" "receptionist-cv.pdf" "receptionist-cv" 1726733639.12389 0
+  "/home/pouya/Desktop/Projects/Josi-CV/receptionist-cv.tex" 1726733628.5845 11750 ea88a177b44db226086c7bed4b40e1ca ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1716849630 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1716849630 3083 a707712f77b073b3833e4b1334a30e99 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1716849630 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -223,15 +223,15 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1721708730 7112993 300a4eedd78ec8eddb1d5d082e4b8a62 ""
   "Josi-profile.jpeg" 1726733613.88101 149259 f81de00bb25ebcf5fb5ca3af8987a00c ""
   "altacv.cls" 1726733613.88101 13471 8c5bef71a78cdd38222121e1432b6ec1 ""
-  "main.aux" 1726733624.84446 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
-  "main.out" 1726733624.77446 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1726733623.16111 11750 ea88a177b44db226086c7bed4b40e1ca ""
-  "pdfa.xmpi" 1726733624.51779 5042 20cf05fc4a1e1a3425ce52d812201d78 "pdflatex"
+  "pdfa.xmpi" 1726733638.73462 5042 8e9192389ea90fb4d4848b91ce814c2f "pdflatex"
+  "receptionist-cv.aux" 1726733639.04795 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
+  "receptionist-cv.out" 1726733638.97795 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "receptionist-cv.tex" 1726733628.5845 11750 ea88a177b44db226086c7bed4b40e1ca ""
   (generated)
-  "main.aux"
-  "main.log"
-  "main.out"
-  "main.pdf"
   "pdfa.xmpi"
+  "receptionist-cv.aux"
+  "receptionist-cv.log"
+  "receptionist-cv.out"
+  "receptionist-cv.pdf"
   (rewritten before read)
   "pdfa.xmpi"

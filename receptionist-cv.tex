@@ -1,0 +1,308 @@
+%%%%%%%%%%%%%%%%%
+% This is an example CV created using altacv.cls (v1.6.4, 13 Nov 2021) written by
+% LianTze Lim (liantze@gmail.com), based on the
+% Cv created by BusinessInsider at http://www.businessinsider.my/a-sample-resume-for-marissa-mayer-2016-7/?r=US&IR=T
+%
+%% It may be distributed and/or modified under the
+%% conditions of the LaTeX Project Public License, either version 1.3
+%% of this license or (at your option) any later version.
+%% The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.3 or later is part of all distributions of LaTeX
+%% version 2003/12/01 or later.
+%%%%%%%%%%%%%%%%
+
+%% Use the "normalphoto" option if you want a normal photo instead of cropped to a circle
+% \documentclass[10pt,a4paper,normalphoto]{altacv}
+
+\documentclass[10pt,a4paper,ragged2e,withhyper]{altacv}
+\usepackage[none]{hyphenat}
+
+
+
+
+%% AltaCV uses the fontawesome5 package.
+%% See http://texdoc.net/pkg/fontawesome5 for full list of symbols.
+
+% Change the page layout if you need to
+\geometry{left=1.25cm,right=1.25cm,top=1.5cm,bottom=1.5cm,columnsep=1.2cm}
+
+% The paracol package lets you typeset columns of text in parallel
+\usepackage{paracol}
+\usepackage{graphicx}
+\usepackage{fontawesome5}
+
+
+\renewcommand{\cvevent}[4]{%
+  \textbf{#1} % Job title
+  \hfill % This will push the right minipage to the right
+  \begin{minipage}[t]{.5\linewidth}
+    \raggedleft % Aligns content to the right
+    \small#3 % Location
+    \\ % New line for the date right below location
+    #4 % Date
+  \end{minipage}
+  \vspace{\baselineskip} % Adds some space after the event
+}
+
+
+
+
+
+\newlength{\mylen}
+
+
+\makeatletter
+% Modify the cvsection command to accept an icon name as the first argument
+\RenewDocumentCommand{\cvsection}{o m}{%
+  % Check if an icon name is provided
+  \IfValueTF{#1}{%
+    % If an icon is provided, measure the width including the icon
+    \settowidth{\mylen}{\Large\bfseries\color{heading}#1\hspace{0.0em}#2}
+    % Add space before the section title
+    \vspace{1.5ex}
+    % Print the section title with icon
+    {\Large\bfseries\color{heading}#1\hspace{0.2em}#2}\\[-1ex]
+  }{%
+    % If no icon is provided, proceed as before
+    \settowidth{\mylen}{\Large\bfseries\color{heading}#2}
+    % Add space before the section title
+    \vspace{1.5ex}
+    % Print the section title without icon
+    {\Large\bfseries\color{heading}#2}\\[-1ex]
+  }
+  % Center the rule: adjust the length here if you want to change the thickness
+  \makebox[\mylen]{\rule{\mylen}{0.0pt}} % Use the measured width for the rule
+  \vspace{2ex} % Adjusted space after the title underline
+}
+\makeatother
+
+% Change the font if you want to, depending on whether
+% you're using pdflatex or xelatex/lualatex
+\ifxetexorluatex
+  % If using xelatex or lualatex:
+  \setmainfont{Lato}
+\else
+  % If using pdflatex:
+  \usepackage[default]{lato}
+\fi
+
+% Change the colours if you want to
+\definecolor{VividPurple}{HTML}{3E0097}
+\definecolor{SlateGrey}{HTML}{2E2E2E}
+\definecolor{LightGrey}{HTML}{666666}
+% \colorlet{name}{black}
+% \colorlet{tagline}{PastelRed}
+\colorlet{heading}{VividPurple}
+\colorlet{headingrule}{VividPurple}
+% \colorlet{subheading}{PastelRed}
+\colorlet{accent}{VividPurple}
+\colorlet{emphasis}{SlateGrey}
+\colorlet{body}{LightGrey}
+
+% Change some fonts, if necessary
+% \renewcommand{\namefont}{\Huge\rmfamily\bfseries}
+% \renewcommand{\personalinfofont}{\footnotesize}
+% \renewcommand{\cvsectionfont}{\LARGE\rmfamily\bfseries}
+% \renewcommand{\cvsubsectionfont}{\large\bfseries}
+
+% Define the length outside the command, to ensure it's only defined once
+
+
+
+
+
+
+% Change the bullets for itemize and rating marker
+% for \cvskill if you want to
+\renewcommand{\itemmarker}{{\small\textbullet}}
+\renewcommand{\ratingmarker}{\faCircle}
+
+%% Use (and optionally edit if necessary) this .tex if you
+%% want to use an author-year reference style like APA(6)
+%% for your publication list
+% \input{pubs-authoryear}
+
+%% Use (and optionally edit if necessary) this .tex if you
+%% want an originally numerical reference style like IEEE
+%% for your publication list
+% \input{pubs-num}
+
+%% sample.bib contains your publications
+% \addbibresource{sample.bib}
+
+\begin{document}
+
+\name{Josie Sousa}
+\tagline{Graphic Designer}
+
+\photoR{3cm}{Josi-profile.jpeg}
+
+\personalinfo{%
+  \email{josie.sousadg@gmail.com}
+  \phone{+64 022 357 4519}
+  \linkedin{josiesousa}
+  \homepage{josiesousa.myportfolio.com}
+}
+
+\makecvheader
+
+\cvsection[\faBrain]{Professional Summary}
+
+\begin{raggedright}
+With close to a decade of dynamic and innovative experience, I bring invaluable expertise in Graphic Design to the table. I excel in managing multiple creative projects concurrently, from initial concept creation to final execution, with a focus on branding, pre-press, offline media, and social media. My strengths lie in graphic design and visual conceptualization, making me adept at delivering impactful and memorable designs that resonate with target audiences.
+\end{raggedright}
+
+\vspace{0.5cm}
+
+\begin{paracol}{2}
+
+
+    \cvsection[\faHandHoldingHeart]{What I have to offer?}
+
+    \begin{raggedright}
+        A passionate graphic designer with nearly a decade of experience in creating impactful and memorable designs. I have held responsible positions in several companies as a Graphic Designer, Art Director, Illustrator, and Layout Artist.
+        I constantly seek to deliver visually appealing and effective solutions that resonate with target audiences, always looking at projects through the lens of creativity and innovation.
+    \end{raggedright}
+    
+    
+    \switchcolumn
+    
+    \cvsection[\faHandshake]{What I’m looking for? }
+    
+    \begin{raggedright}
+
+        - A company that values creativity and fosters a positive work environment.
+        
+        - Opportunities to collaborate with diverse teams and contribute to impactful projects.
+        
+        - Continuous learning and growth in the field of graphic design and visual communication.
+        
+        - A supportive network of colleagues who share a passion for creating exceptional designs.
+        
+        
+        \end{raggedright}
+
+\end{paracol}
+
+\vspace{0.5cm}
+
+\cvsection[\faCode]{Skills}
+
+\begin{paracol}{2}
+  \cvskill{Branding}{4.5}
+  \divider
+  \cvskill{Editorial Design}{4.5}
+  \divider
+  \cvskill{Layout Artist}{4.5}
+  \divider
+  \cvskill{Print/Pre-Press}{4.5}
+  \divider
+  \cvskill{Design for Social Media}{4}
+  \divider
+  \cvskill{Typography}{4.5}
+  \divider
+  \cvskill{UI/UX}{3.5}
+
+  
+  \switchcolumn
+  \cvskill{Illustrator}{4.5}
+  \divider
+  \cvskill{InDesign}{4.5}
+  \divider
+  \cvskill{Photoshop}{4.5}
+  \divider
+  \cvskill{Figma}{3}
+  \divider
+  \cvskill{Adobe XD}{3}
+  \divider
+  \cvskill{Office}{4}
+
+  \divider
+  \cvskill{UX Research and Strategy}{3}
+
+\end{paracol}
+
+\vspace{0.5cm}
+
+\makeatletter
+% Define or renew the cvevent command
+\RenewDocumentCommand{\cvevent}{m m m m}{%
+  % Arguments: #1 = Position, #2 = Company, #3 = Date Range, #4 = Location
+  \vspace{1.5ex} % Space before the event
+  {\bfseries\large #1} at {\bfseries\large #2} % Position at Company
+  \hfill % Fill space
+  {\small\itshape\faCalendar #3} % Date range
+  \\ % New line
+  {\small\itshape #4} % Location
+  \par % End of paragraph
+  \vspace{1ex} % Space after the event before details begin
+}
+\makeatother
+
+\cvsection[\faBriefcase]{Work Experience}
+
+\cvevent{Graphic Designer}{Bonita Brazilian Beauty}{April 2022 -- Currently}{Auckland, NZ}
+\begin{itemize}
+  \item Revamped Visual Identity: Spearheaded the redesign of the company's internal visual communication, enhancing brand coherence across new internal signage, stationery, and online platforms.
+  \item Comprehensive Branding Strategy: Implemented a multifaceted branding approach, integrating internal communications, targeted social media campaigns, and external advertising to elevate the brand's digital presence.
+  \item Measurable Outcomes: Successfully boosted online engagement by 20\%, and attracted a 15\% increase in new, loyal customer base through innovative design and marketing strategies.
+\end{itemize}
+
+\divider
+
+\cvevent{Freelancer Graphic Designer}{Sue Lyon}{June 2020 -- March 2021}{Auckland, NZ}
+\begin{itemize}
+  \item Collaborated on a project to develop a book, "Being my Best," and junior and teenager programmes aimed at children aged 7 to 15 years old.
+  \item Conceptualized and executed the entire visual identity, including the layout and finalization of the book.
+  \item Created graphic elements and layout design, ensuring effective visual communication for the target audience.
+\end{itemize}
+
+\divider
+
+\cvevent{Graphic Designer}{Auckland War Memorial Museum}{February 2023 -- June 2023}{Auckland, NZ}
+\begin{itemize}
+  \item Exhibition Visual Identity: Collaboratively developed the complete visual identity for the 'Toró, É Tudo Tanto' exhibition, working closely with the curatorial team to ensure thematic consistency and visitor engagement.
+  \item Promotional Material Design: Led the creation of all promotional materials, including posters, banners, and social media content, focusing on user experience to guide visitors effectively through the exhibit.
+  \item Extended Exhibition Success: Contributed to a successful publicity campaign, resulting in a three-month extension of the exhibition due to its popularity, and record-breaking attendance within the first 15 days.
+\end{itemize}
+
+\divider
+
+\cvevent{Art Director}{Clean.com}{September 2019 -- March 2020}{Auckland, NZ}
+\begin{itemize}
+  \item Strategic Brand Redesign: Collaborated with the marketing team in the strategic rebranding of the company, ensuring the brand's alignment with market trends and customer preferences.
+  \item Creative Direction and Production Oversight: Directed the creative process and managed the production of advertising materials, focusing on a cohesive brand message across various media channels.
+  \item Brand Market Impact: The rebranding initiative led to significant market penetration, evidenced by increased customer outreach and necessitating workforce expansion to accommodate growing service demands.
+\end{itemize}
+
+\divider
+
+\cvevent{Freelancer Graphic Designer}{}{April 2017 -- May 2018}{Brazil}
+\begin{itemize}
+  \item Undertook a variety of projects encompassing the fundamentals of graphic design, including branding, advertisement creation, and social media content.
+  \item Developed consistent and impactful visual identities for various clients, aligning with their specific needs and objectives.
+  \item Collaborated directly with clients to understand their visions and translate them into effective and appealing visual solutions.
+  \item Managed deadlines and deliverables, ensuring client satisfaction and maintaining a high standard of quality across all executed projects.
+\end{itemize}
+
+\divider
+
+\cvevent{Illustrator \& Layout Artist}{Editora Teth}{September 2010 -- February 2017}{Brazil}
+\begin{itemize}
+  \item Educational Material Redesign: As the lead Graphic Designer, directed the redesign of textbook layouts, integrating visual appeal with functional design to enhance educational content delivery.
+  \item Illustration and Collaboration: Worked in tandem with authors to create engaging illustrations for teaching materials, ensuring visual consistency and educational relevance.
+  \item Sales Impact: The combined efforts in layout redesign and illustration significantly uplifted the sales of teaching materials, reinforcing the brand's presence across educational institutions.
+\end{itemize}
+
+\vspace{0.5cm}
+
+\cvsection[\faGraduationCap]{Education}
+
+\cvevent{Master Interface Design}{Aela}{Feb. 2024 -- Currently}{}
+
+\divider
+
+\cvevent{Bachelor of Fine Arts in Graphic Design}{Universidade Estácio de Sá}{2011 -- 2015}{}
+
+\end{document}
