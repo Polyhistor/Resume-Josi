@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.7.23)  19 SEP 2024 21:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Arch Linux) (preloaded format=pdflatex 2024.7.23)  20 SEP 2024 14:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -761,106 +761,65 @@ LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 150.
 
-Overfull \hbox (30.49284pt too wide) in paragraph at lines 153--155
-[]\T1/lato-TLF/m/n/10 A ded-i-cated pro-fes-sional with nearly a decade of ex-pe-ri-ence in client re-cep-tion, ad-min-is-tra-tive sup-port, and of-fice man-age-ment. 
+Overfull \hbox (15.19481pt too wide) in paragraph at lines 153--155
+[]\T1/lato-TLF/m/n/10 A ded-i-cated pro-fes-sional with ex-ten-sive ex-pe-ri-ence in graphic de-sign and client re-la-tions. Over the years, I have suc-cess-fully 
  []
 
 
-Overfull \hbox (16.8831pt too wide) in paragraph at lines 164--166
-[]\T1/lato-TLF/m/n/10 A ded-i-cated pro-fes-sional with nearly a decade of ex-pe-ri-ence 
+Overfull \hbox (14.28981pt too wide) in paragraph at lines 153--155
+\T1/lato-TLF/m/n/10 man-aged client com-mu-ni-ca-tions, project co-or-di-na-tion, and of-fice ad-min-is-tra-tion. I ex-cel in ad-dress-ing client needs, pro-vid-ing 
  []
 
 
-Overfull \hbox (2.75507pt too wide) in paragraph at lines 164--166
-\T1/lato-TLF/m/n/10 man-age-ment. I have held re-spon-si-ble po-si-tions in var-i-ous 
- []
-
-
-Overfull \hbox (5.29315pt too wide) in paragraph at lines 164--166
-\T1/lato-TLF/m/n/10 or-ga-ni-za-tions, where I de-vel-oped strong cus-tomer ser-vice 
- []
-
-
-Overfull \hbox (28.49495pt too wide) in paragraph at lines 164--166
-\T1/lato-TLF/m/n/10 and or-ga-ni-za-tional skills. I ex-cel in man-ag-ing client in-ter-ac-tions, 
- []
-
-
-Overfull \hbox (33.19305pt too wide) in paragraph at lines 164--166
-\T1/lato-TLF/m/n/10 co-or-di-nat-ing sched-ules, and en-sur-ing a wel-com-ing en-vi-ron-ment. 
- []
-
-
-Overfull \hbox (5.28807pt too wide) in paragraph at lines 164--166
-\T1/lato-TLF/m/n/10 My fo-cus is on de-liv-er-ing ef-fec-tive so-lu-tions that en-hance 
- []
-
-
-Overfull \hbox (14.323pt too wide) in paragraph at lines 164--166
-\T1/lato-TLF/m/n/10 client sat-is-fac-tion while main-tain-ing a calm and pro-fes-sional 
- []
-
-
-Overfull \hbox (6.03313pt too wide) in paragraph at lines 182--183
-[]\T1/lato-TLF/m/n/10 - A sup-port-ive net-work of col-leagues who share a pas-sion 
+Overfull \hbox (14.4399pt too wide) in paragraph at lines 153--155
+\T1/lato-TLF/m/n/10 cre-ative so-lu-tions, and en-sur-ing smooth project de-liv-ery. With strong or-ga-ni-za-tional skills and a calm, pro-fes-sional ap-proach, 
  []
 
 LaTeX Font Info:    Font shape `T1/lato-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line 194.
+(Font)              scaled to size 10.0pt on input line 203.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 255.
+(Font)              scaled to size 9.0pt on input line 264.
 LaTeX Font Info:    Font shape `T1/lato-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 255.
-[1
-
-{/usr/share/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc} <./Josi-profile.jpeg>]
-LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input line 257.
- (/usr/share/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
+(Font)              scaled to size 9.0pt on input line 264.
+LaTeX Font Info:    Trying to load font information for TS1+lato-TLF on input line 266.
+(/usr/share/texmf-dist/tex/latex/lato/TS1lato-TLF.fd
 File: TS1lato-TLF.fd 2019/06/24 Font definitions for TS1/lato-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/lato-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 257.
+(Font)              scaled to size 9.0pt on input line 266.
 
-Overfull \hbox (2.13988pt too wide) in paragraph at lines 268--269
-[]\T1/lato-TLF/m/n/10 Revamped Vi-sual Iden-tity: Spear-headed the re-design of the com-pany's in-ter-nal vi-sual com-mu-ni-ca-tion, en-hanc-ing brand 
- []
-
-
-Overfull \hbox (9.62984pt too wide) in paragraph at lines 269--270
-[]\T1/lato-TLF/m/n/10 Comprehensive Brand-ing Strat-egy: Im-ple-mented a mul-ti-faceted brand-ing ap-proach, in-te-grat-ing in-ter-nal com-mu-ni-ca-tions, 
- []
-
-
-Overfull \hbox (4.26993pt too wide) in paragraph at lines 286--287
+Overfull \hbox (4.26993pt too wide) in paragraph at lines 277--278
 []\T1/lato-TLF/m/n/10 Exhibition Vi-sual Iden-tity: Col-lab-o-ra-tively de-vel-oped the com-plete vi-sual iden-tity for the 'Toró, É Tudo Tanto' ex-hi-bi-tion, 
  []
 
+[1
 
-Overfull \hbox (3.10486pt too wide) in paragraph at lines 287--288
+{/usr/share/texmf-dist/fonts/enc/dvips/lato/a_cl4kdn.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc} <./Josi-profile.jpeg>]
+Overfull \hbox (3.10486pt too wide) in paragraph at lines 278--279
 []\T1/lato-TLF/m/n/10 Promotional Ma-te-rial De-sign: Led the cre-ation of all pro-mo-tional ma-te-ri-als, in-clud-ing posters, ban-ners, and so-cial me-dia 
  []
 
 
-Overfull \hbox (2.66492pt too wide) in paragraph at lines 296--297
+Overfull \hbox (2.66492pt too wide) in paragraph at lines 298--299
 []\T1/lato-TLF/m/n/10 Creative Di-rec-tion and Pro-duc-tion Over-sight: Di-rected the cre-ative pro-cess and man-aged the pro-duc-tion of ad-ver-tis-ing 
  []
 
 
-Overfull \hbox (0.12488pt too wide) in paragraph at lines 297--298
+Overfull \hbox (0.12488pt too wide) in paragraph at lines 299--300
 []\T1/lato-TLF/m/n/10 Brand Mar-ket Im-pact: The re-brand-ing ini-tia-tive led to sig-nif-i-cant mar-ket pen-e-tra-tion, ev-i-denced by in-creased cus-tomer 
  []
 
 
-Overfull \hbox (7.20789pt too wide) in paragraph at lines 305--306
+Overfull \hbox (7.20789pt too wide) in paragraph at lines 307--308
 []\T1/lato-TLF/m/n/10 Developed con-sis-tent and im-pact-ful vi-sual iden-ti-ties for var-i-ous clients, align-ing with their spe-cific needs and ob-jec-tives.  
  []
 
-[2{/usr/share/texmf-dist/fonts/enc/dvips/lato/a_rt66h3.enc}]
-Overfull \hbox (13.1148pt too wide) in paragraph at lines 316--317
+
+Overfull \hbox (13.1148pt too wide) in paragraph at lines 318--319
 []\T1/lato-TLF/m/n/10 Sales Im-pact: The com-bined ef-forts in lay-out re-design and il-lus-tra-tion sig-nif-i-cantly up-lifted the sales of teach-ing ma-te-ri-als, 
  []
 
-[3] (./receptionist-cv.aux)
+[2] (./receptionist-cv.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -869,17 +828,17 @@ Package rerunfilecheck Info: File `receptionist-cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 32729 strings out of 476076
- 639008 string characters out of 5793775
- 1965187 words of memory out of 5000000
+ 32728 strings out of 476076
+ 639002 string characters out of 5793775
+ 1964187 words of memory out of 5000000
  54263 multiletter control sequences out of 15000+600000
  827786 words of font info for 67 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 125i,8n,121p,614b,2380s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 125i,8n,121p,601b,2380s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Bold.pfb></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Italic.pfb></usr/share/texmf-dist/fonts/type1/typoland/lato/Lato-Regular.pfb>
-Output written on receptionist-cv.pdf (3 pages, 318683 bytes).
+Output written on receptionist-cv.pdf (2 pages, 307745 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 4 named destinations out of 1000 (max. 500000)
+ 71 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 500000)
  50 words of extra memory for PDF output out of 10000 (max. 10000000)
 

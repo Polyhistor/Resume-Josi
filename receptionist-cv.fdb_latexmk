@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1726739774.15479 "/home/pouya/Desktop/Projects/Josi-CV/receptionist-cv.tex" "receptionist-cv.pdf" "receptionist-cv" 1726739774.99962 0
-  "/home/pouya/Desktop/Projects/Josi-CV/receptionist-cv.tex" 1726739773.98304 12880 d83df64c093e09aed71224c3946f6435 ""
+["pdflatex"] 1726798719.64137 "/home/pouya/Desktop/Projects/Josi-CV/receptionist-cv.tex" "receptionist-cv.pdf" "receptionist-cv" 1726798720.2883 0
+  "/home/pouya/Desktop/Projects/Josi-CV/receptionist-cv.tex" 1726798719.47217 12147 a18b2e3b10aab56cd886f43b8619ae7d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1716849630 2920 d63721872b8c77041b88e51b8f7c291d ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1716849630 3083 a707712f77b073b3833e4b1334a30e99 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1716849630 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -223,10 +223,10 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1721708730 7112993 300a4eedd78ec8eddb1d5d082e4b8a62 ""
   "Josi-profile.jpeg" 1726733613.88101 149259 f81de00bb25ebcf5fb5ca3af8987a00c ""
   "altacv.cls" 1726733613.88101 13471 8c5bef71a78cdd38222121e1432b6ec1 ""
-  "pdfa.xmpi" 1726739774.50638 5042 fed55d954ca3ee6b59913ea6b16aa599 "pdflatex"
-  "receptionist-cv.aux" 1726739774.91305 162 fa61bf9ecf9314f94d51aa32222a725c "pdflatex"
-  "receptionist-cv.out" 1726739774.81305 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "receptionist-cv.tex" 1726739773.98304 12880 d83df64c093e09aed71224c3946f6435 ""
+  "pdfa.xmpi" 1726798719.92884 5042 f1841e94aefbffc3157e722f84373b4d "pdflatex"
+  "receptionist-cv.aux" 1726798720.22551 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
+  "receptionist-cv.out" 1726798720.15884 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "receptionist-cv.tex" 1726798719.47217 12147 a18b2e3b10aab56cd886f43b8619ae7d ""
   (generated)
   "pdfa.xmpi"
   "receptionist-cv.aux"
